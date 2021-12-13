@@ -20,4 +20,6 @@
   
   * tqdm
 
+* **dev_train.txt** son los datos de entrenamiento
+
     
